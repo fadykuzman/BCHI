@@ -1,2 +1,2 @@
 # BCHI
-Analysing the data provided by Big Cities Health Coalition
+Analysing the data made available through open access by Big Cities Health Coalition
